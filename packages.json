@@ -1,10 +1,10 @@
 [
   {
-    "package": "polysat"
+    "package": "polysat",
     "url": "https://github.com/lvclark/polysat"
   },
   {
-    "package": "polyRAD"
+    "package": "polyRAD",
     "url": "https://github.com/lvclark/polyRAD"
   }
 ]
