@@ -6,5 +6,9 @@
   {
     "package": "polyRAD",
     "url": "https://github.com/lvclark/polyRAD"
+  },
+  {
+    "package": "plotly.microbiome",
+    "url": "https://github.com/HPCBio/plotly_microbiome"
   }
 ]
