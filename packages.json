@@ -8,6 +8,10 @@
     "url": "https://github.com/lvclark/polyRAD"
   },
   {
+    "package": "polyRADtutorials",
+    "url": "https://github.com/lvclark/polyRADtutorials"
+  },
+  {
     "package": "plotly.microbiome",
     "url": "https://github.com/HPCBio/plotly_microbiome"
   }
